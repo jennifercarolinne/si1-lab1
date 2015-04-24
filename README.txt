@@ -1,1 +1,1 @@
-Lab1 | Sistema de Informação 1 - 2015.1 | Jennifer Carolinne
+Lab1 | Sistema de Informação 1 - 2015.1 | Jennifer Carolinne de Sousa Lucena
