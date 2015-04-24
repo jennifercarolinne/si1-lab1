@@ -1,0 +1,121 @@
+@import url(http://fonts.googleapis.com/css?family=Holtwood+One+SC);
+@import url(http://fonts.googleapis.com/css?family=Bowlby+One+SC);
+
+header{
+    background-color: pink;
+    text-align: center;
+    font-family: 'Holtwood One SC', serif;
+    padding: 4px;
+}
+header p{
+    color: white;
+    font-size: 32px;
+}
+
+article{
+    text-align: center;
+}
+
+.conteudo{
+    margin: 0px 20% 0px 20%;
+}
+
+.styleArticles{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+.listaStyle{
+    margin: 10px 0px 0px 0px;
+}
+
+
+ul li{
+    list-style-type: none;
+    margin: 5px 0px 0px 0px;
+}
+
+.titulosDeTexto{
+    font-family: 'Holtwood One SC', serif;
+
+}
+
+a { color:#FFF}
+.classname { border:solid 1px pink;  text-align:center; background: pink; padding:10px 0px 10px 0px;  -moz-border-radius: 5px;  -webkit-border-radius: 5px; border-radius: 5px;}
+
+/* =Your Generated css
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+.classname{border:solid 3px pink;-moz-border-radius: 75px;-webkit-border-radius: 75px;border-radius: 75px;}
+/* End of Your Generated css
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+
+.btn{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+input, textarea {
+    padding: 9px;
+    margin-left: 40px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 13px/100% Verdana, Tahoma, sans-serif;
+    width: 200px;
+    background: #FFFFFF;
+}
+
+textarea {
+    width: 400px;
+    max-width: 400px;
+    height: 150px;
+    line-height: 150%;
+}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+    border-color: #C9C9C9;
+
+}
+
+.form{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.form label {
+    margin-left: 10px;
+    color: #000000;
+}
+
+.submit input {
+    width: auto;
+    padding: 9px 15px;
+    background: #617798;
+    border: 0;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.btnCadastrar{
+    width: 20%;
+    margin-top: 40px;
+}
+
+.thanks{
+    text-align: center;
+    margin: 20% 20% 0px ;
+}
+
+.thanks p{
+    font-size: 20pt;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.btnVoltar{
+    width: 20%;
+    margin-left: 40%;
+
+}
